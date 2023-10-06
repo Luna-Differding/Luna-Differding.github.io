@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:black;">
+<h1 style="color:red;">At the grocery store. </hl>
+<img src="door.jpg" alt="door">
+<p style="color:white;">You take in your surroundings and realize: You are in your local grocery store. However, your vision seems to be wildly out of focus. You realize something has been placed in your palm.  It appears to be two brightly colored pills, although you're not entirely sure. You consider which one you will take, if any at all.</p>
+<a href="index3.html">Take the blue pill.</a>
+<a href="index4.html">Take the green pill.</a>
+<a href="index4.html">Take neither.</a>
+</body>
+</html>
