@@ -3,7 +3,7 @@ let capture;
 function setup() {
   createCanvas(640, 480);
   capture = createCapture(VIDEO);
-  capture.size(320, 240);
+  capture.size(640, 480);
   capture.hide();
 }
 
