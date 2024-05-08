@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.slim.min.js"></script>
+
+<!-- Popper JS -->
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+<title>Luna Differding-Portales Glitch!</title>
+</head>
+<body style="background-color:black;">
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  <div class="container-fluid">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+      <ul class="navbar-nav">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">Art 74</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="index.html">Home</a></li>
+            <li><a class="dropdown-item" href="glitch.html">Glitch</a></li>
+            <li><a class="dropdown-item" href="mashup.html">Mashup</a></li>
+            <li><a class="dropdown-item" href="minecraft.html">Minecraft</a></li>
+            <li><a class="dropdown-item" href="3dprint.html">3D Print</a></li>
+            <li><a class="dropdown-item" href="netart.html">Net Art</a></li>
+            <li><a class="dropdown-item" href="codingasart.html">Coding As Art</a></li>
+            <li><a class="dropdown-item" href="finalproject.html">PhilosophyxDMA</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+</div>
+</nav>
+<div class="container-fluid">
+<div class="container pt-5"></div>
+	<h1 class="text-center text-white">Glitch Art- Chronology</h1>
+</div>
+<div class="container-fluid">
+	<div class="container pt-5"></div>
+	<div class="container-fluid">	
+		<div class="container pt-5"></div>
+	<p class="text-center text-white"> Statement: Chronology is a work which conveys the origins of humanity and it's developments over time. The work functions as a series or the final compilation of images. Through gradual addition of color, Chronology suggests that we slowly developed the characteristics that make us human. We were once nothing. We then existed simply and animalistically--our purpose to survive and reproduce. Finally, eons later, we are able to exist in a reality were we can indulge ourselves and see the world in technicolor.</p>
+	</div>
+<div class="row">
+  <div class="col"><img src="big bang1.png" class="img-thumbnail mx-auto d-block" alt="image"></div>
+  <div class="col"><img src="big bang,early humans.png" class="img-thumbnail mx-auto d-block" alt="image"></div>
+  <div class="col"><img src="big bang,early humans, silicone valley copy.png" class="img-thumbnail mx-auto d-block" alt="image"></div>
+</div>
+<div> 
+	<div class="container-fluid">
+		<div class="container pt-5"></div>
+	<h3 class="text-center text-white">Processes</h3>
+		<div class="row">
+  <div class="col"><p class="text-center text-white"> Piece One: ​I made this first piece by finding an image of a supernovae which I felt could work as representing the Big Bang, and how I imagine the Big Bang having looked. From there, I was able to take the data from the image and turn it into a sound bit using audacity. To do this I had to open the image in Photoshop, and change it to raw data. This is called data moshing. I put the "echo" effect on the sound bit to distort it, and transferred the data back into an image by bringing the raw data back into photoshop.</p></div>
+  <div class="col"><p class="text-center text-white">Piece Two: The second image I found by looking up images of early humans. I liked this image because the quality of the image was pretty low resolution and seemed crudely put together, which tied in with the idea of humans starting out as simple, unrefined creatures. I glitched this one by taking the data and putting it into my source code editor, where I moved around certain pieces of the code and deleted some pieces altogether in order to distort the image. I then brought it into photoshop where I was able to lay it over the first piece.</p></div>
+  <div class="col"><p class="text-center text-white">Piece Three: The third image was found by looking up silicon valley. I chose this image because it contrasts the second image through it's more organic forms, symbolizing progress from simple, rudimentary shapes to complex, elegant and visually pleasing shapes. Silicon valley is the epitome of human technological advancements, so it represents not only how far we've come but how far we're going. I used data moshing for this one as well using audacity and it added much more vibrancy to the image.</div>
+	</div>
+</div>
+</body>
+</html>
