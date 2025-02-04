@@ -1,9 +1,9 @@
 var capture;
 
 function setup() {
-  createCanvas(975, 600);
+  createCanvas(1770, 2532);
   capture = createCapture(VIDEO);
-  capture.size(2532, 1170);
+  capture.size(1170, 2532);
   capture.hide();
   filterModes = [ 
     GRAY, 
@@ -20,6 +20,6 @@ function setup() {
 
 function draw() {
   background(255);
-  image(capture, 0, 0, 975, 600);
+  image(capture, 0, 0, 1170, 2532);
   filter(THRESHOLD, .5);
 }
